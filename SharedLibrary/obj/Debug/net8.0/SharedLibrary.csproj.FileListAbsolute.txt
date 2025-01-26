@@ -1,0 +1,11 @@
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
