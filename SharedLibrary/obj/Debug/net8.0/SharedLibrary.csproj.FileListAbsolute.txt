@@ -9,3 +9,4 @@ C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\Sh
 C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
 C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
 C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+C:\Users\Dominik\Documents\git\HardkorowyKodsu\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
